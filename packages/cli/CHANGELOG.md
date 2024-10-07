@@ -1,5 +1,12 @@
 # @redocly/cli
 
+## 1.25.6
+
+### Patch Changes
+
+- Adjusted CLI to properly handle root level paths during split operations
+- Updated @redocly/openapi-core to v1.25.6.
+
 ## 1.25.5
 
 ### Patch Changes
