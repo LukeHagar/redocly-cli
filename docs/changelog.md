@@ -7,6 +7,13 @@ toc:
 
 <!-- do-not-remove -->
 
+## 1.25.6 (2025-10-27)
+
+### Patch Changes
+
+- Adjusted the `split` command to properly handle root-level paths.
+- Updated @redocly/openapi-core to v1.25.6.
+
 ## 1.25.5 (2024-10-04)
 
 ### Patch Changes
